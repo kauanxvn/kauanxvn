@@ -1,50 +1,49 @@
 <div align="center">
 
-# Olá, eu sou o Kauan! 👋
+# Hi, I'm Kauan!
 
-![Dev em ascensão](https://img.shields.io/badge/Idade-16_Anos-blueviolet?style=for-the-badge)
-![Estudante](https://img.shields.io/badge/SENAI-403-red?style=for-the-badge)
-![Foco](https://img.shields.io/badge/Especialidade-Front--End-6e40c9?style=for-the-badge)
+![Age](https://img.shields.io/badge/Age-16_Years-blueviolet?style=for-the-badge)
+![Student](https://img.shields.io/badge/SENAI-403-red?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Specialty-Front--End-6e40c9?style=for-the-badge)
 
 </div>
 
 ---
 
-### 🧑‍💻 Sobre Mim
+### About Me
 
-Sou estudante do **SESI 192** e do **SENAI 403**, onde estou mergulhando no mundo do
-desenvolvimento de software. Tenho grande paixão pelo **Front-End**, acreditando que
-uma boa interface é a porta de entrada para qualquer experiência digital incrível.
-Busco sempre unir **design limpo** com **código eficiente**.
+I'm a student at **SESI 192** and **SENAI 403**, diving deep into the world of
+software development. I have a strong passion for **Front-End**, believing that
+a great interface is the gateway to any incredible digital experience.
+I always seek to combine **clean design** with **efficient code**.
 
-- 🎓 Cursando **Técnico em Desenvolvimento de Sistemas** no SENAI 403
-- 🏫 Aluno do **SESI 192**
-- 💜 Apaixonado por criar interfaces **bonitas, modernas e funcionais**
-- 🚀 Sempre buscando aprender e evoluir como desenvolvedor
+- Studying **Systems Development** at SENAI 403
+- Student at **SESI 192**
+- Passionate about building **modern and functional interfaces**
+- Always looking to learn and grow as a developer
 
 ---
 
-### 🛠️ Minha Toolbox
+### Toolbox
 
-| Categoria | Tecnologias |
+| Category | Technologies |
 | :--- | :--- |
-| **Linguagens** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Languages** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 | **Front-End** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-| **Ferramentas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 ---
----
 
-### 📬 Vamos trocar uma ideia?
+### Let's talk?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-xavier-80332b364/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauanxvn_/)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauanxvn@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauanxvn@gmail.com)
 
 ---
 
 <div align="center">
 
-*"O aprendizado é o único investimento que nunca perde o valor."* 💜
+*"Learning is the only investment that never loses its value."*
 
 </div>
