@@ -1,3 +1,4 @@
+<img width="480" height="270" alt="darth vader lightsaber GIF by Star Wars" src="https://github.com/user-attachments/assets/68ecfcad-be23-4da7-934b-9f91f87e2a3c" />
 <div align="center">
 
 # Hi, I'm Kauan!
