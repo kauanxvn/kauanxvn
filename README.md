@@ -1,53 +1,72 @@
-<div align="center">
-  <img width="100%" alt="https://www.deviantart.com/scott910/art/Doctor-Doom-Wallpaper-803727520" src="https://www.deviantart.com/scott910/art/Doctor-Doom-Wallpaper-803727520" />
-</div>
+<p align="center">
+  <img src="./assets/doctor-doom.jpg" alt="Doctor Doom Banner" width="100%">
+</p>
 
-<div align="center">
+<h1 align="center">Hi, I'm Kauan! </h1>
 
-# Hi, I'm Kauan!
-
-![Age](https://img.shields.io/badge/Age-16_Years-blueviolet?style=for-the-badge)
-![Student](https://img.shields.io/badge/SENAI-403-red?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Specialty-Front--End-6e40c9?style=for-the-badge)
-
-</div>
+<p align="center">
+  <b>Front-End Developer in Training</b> • Student at <b>SESI 192</b> & <b>SENAI 403</b>
+</p>
 
 ---
 
-### About Me
+##  About Me
 
-I'm a student at **SESI 192** and **SENAI 403**, diving deep into the world of
-software development. I have a strong passion for **Front-End**, believing that
-a great interface is the gateway to any incredible digital experience.
-I always seek to combine **clean design** with **efficient code**.
+I'm a student at **SESI 192** and **SENAI 403**, passionate about software development and always looking to improve my skills.
 
-- Studying **Systems Development** at SENAI 403
-- Student at **SESI 192**
-- Passionate about building **modern and functional interfaces**
-- Always looking to learn and grow as a developer
+My main focus is **Front-End Development**, creating modern, responsive and user-friendly interfaces that combine clean design with efficient code.
 
----
-
-### Toolbox
-
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **Front-End** | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+*  Studying **Systems Development** at **SENAI 403**
+*  Student at **SESI 192**
+*  Focused on **Front-End Development**
+*  Currently learning **Angular, TypeScript and Angular Material**
+*  Constantly improving my skills through personal projects
 
 ---
 
-### Let's talk?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauan-xavier-80332b364/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kauanxvn_/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kauanxvn@gmail.com)
-
----
+## 🛠️ Toolbox
 
 <div align="center">
 
-*"Learning is the only investment that never loses its value."*
+### Languages
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+
+### Front-End
+
+<img src="https://skillicons.dev/icons?i=angular,bootstrap" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
 
 </div>
+
+---
+
+##  GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+##  Let's Talk
+
+<p align="center">
+  <a href="https://github.com/SEU_USUARIO">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Learning is the only investment that never loses its value."</i>
+</p>
