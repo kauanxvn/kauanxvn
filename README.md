@@ -1,68 +1,65 @@
 <p align="center">
-  <img src="./assets/doctor-doom.jpg" alt="Doctor Doom Banner" width="100%">
+  <img src="https://i.pinimg.com/736x/7e/b5/da/7eb5daff677c3fe0b498ab45658320ca.jpg" alt="Doctor Doom Banner" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Kauan! </h1>
+<h1 align="center">Hi, I'm Kauan!</h1>
 
 <p align="center">
-  <b>Front-End Developer in Training</b> • Student at <b>SESI 192</b> & <b>SENAI 403</b>
+  <strong>Front-End Developer in Training</strong><br>
+  Student at SESI 192 & SENAI 403
 </p>
 
 ---
 
-##  About Me
+## About Me
 
-I'm a student at **SESI 192** and **SENAI 403**, passionate about software development and always looking to improve my skills.
+I'm a student at **SESI 192** and **SENAI 403**, currently studying **Systems Development**.
 
-My main focus is **Front-End Development**, creating modern, responsive and user-friendly interfaces that combine clean design with efficient code.
+My main focus is Front-End development, where I enjoy creating modern, responsive and functional interfaces. I'm constantly learning new technologies and improving my programming skills through personal and academic projects.
 
-*  Studying **Systems Development** at **SENAI 403**
-*  Student at **SESI 192**
-*  Focused on **Front-End Development**
-*  Currently learning **Angular, TypeScript and Angular Material**
-*  Constantly improving my skills through personal projects
+- Systems Development Student at SENAI 403
+- Student at SESI 192
+- Front-End Development Enthusiast
+- Currently studying Angular, TypeScript and Angular Material
+- Always looking for new challenges and opportunities to grow
 
 ---
 
-## 🛠️ Toolbox
-
-<div align="center">
+## Toolbox
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+</p>
 
 ### Front-End
 
-<img src="https://skillicons.dev/icons?i=angular,bootstrap" />
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,bootstrap" />
+</p>
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
-
-</div>
-
----
-
-##  GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm,figma" />
 </p>
 
 ---
 
-##  Let's Talk
+## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/SEU_USUARIO">
-    <img src="https://skillicons.dev/icons?i=github" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kauanxvn&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kauanxvn&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## Contact
+
+<p>
+  <a href="https://github.com/kauanxvn">GitHub</a>
 </p>
 
 ---
